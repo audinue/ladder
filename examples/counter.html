@@ -1,0 +1,12 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta name="viewport" content="width=device-width">
+    <script type="module">
+      import { mount } from '../index.js'
+      import { Counter, CounterView } from './counter.js'
+      let counter = Counter()
+      mount('body', () => CounterView(counter))
+    </script>
+  </head>
+</html>

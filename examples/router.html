@@ -1,0 +1,52 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta name="viewport" content="width=device-width">
+    <script type="module">
+      import { html, mount } from '../index.js'
+      import { Router, RouterController, RouterView } from '../router.js'
+      import { Counter, CounterView } from './counter.js'
+
+      let PageA = () => ({
+        counter: Counter()
+      })
+
+      let router = Router({
+        models: {
+          '#/page-a': PageA
+        },
+        index: '#/page-a'
+      })
+
+      let PageViewA = pageA => html`
+        <h1>Page A</h1>
+        ${CounterView(pageA.counter)}
+      `
+
+      let PageViewB = () => html`
+        <h1>Page B</a>
+      `
+
+      let PageViewC = () => html`
+        <h1>Page C</a>
+      `
+
+      mount('body', () => html`
+        <p>
+          <a href="#/page-a">Page A</a>
+          <a href="#/page-b">Page B</a>
+          <a href="#/page-c">Page C</a>
+        </p>
+        ${RouterView(router, {
+          views: {
+            '#/page-a': PageViewA,
+            '#/page-b': PageViewB,
+            '#/page-c': PageViewC
+          }
+        })}
+      `)
+
+      RouterController(router)
+    </script>
+  </head>
+</html>

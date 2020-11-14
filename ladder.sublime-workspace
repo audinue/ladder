@@ -1,0 +1,1113 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"cou",
+				"counter\t? "
+			],
+			[
+				"Coun",
+				"CounterView"
+			],
+			[
+				"Counte",
+				"counter"
+			],
+			[
+				"appen",
+				"appendChild\tfn "
+			],
+			[
+				"sty",
+				"styles\t? "
+			],
+			[
+				"style",
+				"styles\t{} "
+			],
+			[
+				"che",
+				"checked"
+			],
+			[
+				"coun",
+				"counter"
+			],
+			[
+				"in",
+				"increment"
+			],
+			[
+				"list",
+				"listeners\t[] "
+			],
+			[
+				"ty",
+				"type\tstr "
+			],
+			[
+				"pat",
+				"patchChildNodes\tfn "
+			],
+			[
+				"next",
+				"nextChildNodes\t[] "
+			],
+			[
+				"prev",
+				"previousChildNodes\t[] "
+			],
+			[
+				"remo",
+				"removeChild\tfn "
+			],
+			[
+				"pare",
+				"parentNode\t{} "
+			],
+			[
+				"text",
+				"textContent\tstr "
+			],
+			[
+				"pars",
+				"parseInt\tfn "
+			],
+			[
+				"pr",
+				"proxy\tfn "
+			],
+			[
+				"ev",
+				"events\t{} "
+			],
+			[
+				"lis",
+				"listeners\t[] "
+			],
+			[
+				"val",
+				"values\t{} "
+			],
+			[
+				"par",
+				"parentNode"
+			],
+			[
+				"rmeo",
+				"removeChild\tfn "
+			],
+			[
+				"is",
+				"isPlaceholder\tfn "
+			],
+			[
+				"node",
+				"nodeType\t? "
+			],
+			[
+				"child",
+				"childNodes\t{} "
+			],
+			[
+				"chi",
+				"childNodes\t{} "
+			],
+			[
+				"inn",
+				"innerHTML"
+			],
+			[
+				"frg",
+				"fragment"
+			],
+			[
+				"app",
+				"append\tfn "
+			],
+			[
+				"valu",
+				"values\t[] "
+			],
+			[
+				"ins",
+				"insertBefore\tfn "
+			],
+			[
+				"repl",
+				"replaceChild\tfn "
+			],
+			[
+				"att",
+				"attributes\t{} "
+			],
+			[
+				"buttonC",
+				"buttonClass\t? "
+			],
+			[
+				"cre",
+				"createGenerateId\tfn "
+			],
+			[
+				"genera",
+				"generateId"
+			],
+			[
+				"exp",
+				"expression\t{} "
+			],
+			[
+				"gene",
+				"generateSequenceCode\tfn "
+			],
+			[
+				"ex",
+				"expressions\tfn "
+			],
+			[
+				"con",
+				"context"
+			],
+			[
+				"cha",
+				"charCodeAt"
+			],
+			[
+				"tran",
+				"transformRequire\tfn "
+			],
+			[
+				"h",
+				"href\t{} "
+			],
+			[
+				"modu",
+				"modules"
+			],
+			[
+				"mod",
+				"module\t{} "
+			],
+			[
+				"loa",
+				"loadDeps\t[] "
+			],
+			[
+				"lo",
+				"loadDeps\t[] "
+			],
+			[
+				"tra",
+				"transforms"
+			],
+			[
+				"To",
+				"TodoView\tfn "
+			],
+			[
+				"Tod",
+				"TodoView\tfn "
+			],
+			[
+				"Tot",
+				"TodoItemView\tfn "
+			],
+			[
+				"Todo",
+				"TodoItem\tfn "
+			],
+			[
+				"ti",
+				"title\t? "
+			],
+			[
+				"Rou",
+				"RouterView"
+			],
+			[
+				"Pa",
+				"PageAV\t? "
+			],
+			[
+				"Page",
+				"PageA\tfn "
+			],
+			[
+				"fi",
+				"firstChild"
+			],
+			[
+				"Cou",
+				"CounterView"
+			],
+			[
+				"ent",
+				"entry\t{} "
+			],
+			[
+				"pag",
+				"page-1"
+			],
+			[
+				"pa",
+				"patch\tfn "
+			],
+			[
+				"fil",
+				"filter\tfn "
+			],
+			[
+				"find",
+				"findIndex\tfn "
+			],
+			[
+				"ne",
+				"nextKeys\t{} "
+			],
+			[
+				"pre",
+				"previous\t{} "
+			],
+			[
+				"prve",
+				"previousKeys\t{} "
+			],
+			[
+				"Con",
+				"CounterView\tfn "
+			],
+			[
+				"CO",
+				"Counter"
+			],
+			[
+				"en",
+				"entry\t{} "
+			],
+			[
+				"entr",
+				"entry\t? "
+			],
+			[
+				"counterS",
+				"counterState\tfn "
+			],
+			[
+				"no",
+				"nodeType\t? "
+			],
+			[
+				"patch",
+				"patchChildNodes\tfn "
+			],
+			[
+				"moun",
+				"mounted\t{} "
+			],
+			[
+				"transform",
+				"transformAttribute\tfn "
+			],
+			[
+				"fun",
+				"function\t? "
+			],
+			[
+				"fn",
+				"functionId\tnum "
+			],
+			[
+				"fu",
+				"functionId\t? "
+			],
+			[
+				"crea",
+				"createTextNode"
+			],
+			[
+				"chil",
+				"childNode"
+			],
+			[
+				"COun",
+				"Counter\tfn "
+			],
+			[
+				"m",
+				"my-counter"
+			],
+			[
+				"Count",
+				"Counter\tfn "
+			],
+			[
+				"rend",
+				"renderPage\tfn "
+			],
+			[
+				"ren",
+				"renderPage\tfn "
+			],
+			[
+				"hash",
+				"hashUrl\t? "
+			],
+			[
+				"appe",
+				"appendChild\tfn "
+			],
+			[
+				"chid",
+				"children"
+			],
+			[
+				"typ",
+				"typeof\t? "
+			],
+			[
+				"v",
+				"vNode"
+			],
+			[
+				"get",
+				"getFunctionId\tfn "
+			],
+			[
+				"id",
+				"idCount\tnum "
+			],
+			[
+				"ca",
+				"cache\t{} "
+			],
+			[
+				"st",
+				"strings\t{} "
+			],
+			[
+				"re",
+				"replacers\t[] "
+			],
+			[
+				"inp",
+				"inputA"
+			],
+			[
+				"inpu",
+				"inputA"
+			],
+			[
+				"uri",
+				"uri\tfn "
+			],
+			[
+				"isValidU",
+				"isValidUri\tfn "
+			],
+			[
+				"isVal",
+				"isValid\tfn "
+			],
+			[
+				"col",
+				"columns"
+			],
+			[
+				"attri",
+				"attribute"
+			],
+			[
+				"str",
+				"string\t? "
+			],
+			[
+				"te",
+				"textContent\t? "
+			],
+			[
+				"a",
+				"attribute\t? "
+			],
+			[
+				"pro",
+				"props\t{} "
+			],
+			[
+				"rea",
+				"realized\t{} "
+			],
+			[
+				"real",
+				"realized\t{} "
+			],
+			[
+				"Use",
+				"UserPage\t? "
+			],
+			[
+				"user",
+				"userReq"
+			],
+			[
+				"marg",
+				"margin\tproperty"
+			],
+			[
+				"mon",
+				"monaco-editor"
+			],
+			[
+				"read",
+				"readfile"
+			],
+			[
+				"dir",
+				"dirname\tfn "
+			],
+			[
+				"wr",
+				"wrapper"
+			],
+			[
+				"wra",
+				"wrapper\t{} "
+			],
+			[
+				"wrap",
+				"wrapper\t{} "
+			],
+			[
+				"flex",
+				"flex-shrink\tproperty"
+			],
+			[
+				"ove",
+				"overflow\tproperty"
+			],
+			[
+				"padd",
+				"padding-left\tproperty"
+			],
+			[
+				"pad",
+				"padding\tproperty"
+			],
+			[
+				"di",
+				"display\tproperty"
+			],
+			[
+				"margi",
+				"margin-bottom\tproperty"
+			],
+			[
+				"font",
+				"font-size\tproperty"
+			],
+			[
+				"text-",
+				"text-transform\tproperty"
+			],
+			[
+				"ali",
+				"align-items\tproperty"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"J",
+				"Set Syntax: JavaScript"
+			],
+			[
+				"HT",
+				"Set Syntax: HTML"
+			],
+			[
+				"JSX",
+				"Set Syntax: JSX"
+			],
+			[
+				"INsta",
+				"Package Control: Install Package"
+			],
+			[
+				"Remo",
+				"Package Control: Remove Package"
+			],
+			[
+				"Insta",
+				"Package Control: Install Package"
+			],
+			[
+				"R",
+				"Rename File"
+			],
+			[
+				"Ja",
+				"Set Syntax: JavaScript"
+			],
+			[
+				"PLai",
+				"Set Syntax: Plain Text"
+			],
+			[
+				"Jav",
+				"Set Syntax: JavaScript"
+			],
+			[
+				"Re",
+				"Rename File"
+			],
+			[
+				"Java",
+				"Set Syntax: JavaScript"
+			],
+			[
+				"Ren",
+				"Rename File"
+			],
+			[
+				"Ma",
+				"Set Syntax: Markdown"
+			],
+			[
+				"H",
+				"Set Syntax: HTML"
+			],
+			[
+				"Color",
+				"UI: Select Color Scheme"
+			],
+			[
+				"COlo",
+				"Convert Case: Lower Case"
+			],
+			[
+				"INstall",
+				"Package Control: Install Package"
+			],
+			[
+				"Add",
+				"Project: Add Folder"
+			],
+			[
+				"Inst",
+				"Package Control: Install Package"
+			],
+			[
+				"Col",
+				"UI: Select Color Scheme"
+			],
+			[
+				"Theme",
+				"UI: Select Theme"
+			],
+			[
+				"Colo",
+				"UI: Select Color Scheme"
+			],
+			[
+				"EJS",
+				"Set Syntax: EJS (<? ?>)"
+			],
+			[
+				"Instak",
+				"Package Control: Install Package"
+			],
+			[
+				"JA",
+				"Set Syntax: JavaScript"
+			],
+			[
+				"EJ",
+				"Set Syntax: EJS (<? ?>)"
+			],
+			[
+				"SQL",
+				"Set Syntax: SQL"
+			],
+			[
+				"HTM",
+				"Set Syntax: HTML"
+			],
+			[
+				"Plain",
+				"Set Syntax: Plain Text"
+			],
+			[
+				"In",
+				"Package Control: Install Package"
+			],
+			[
+				"Ty",
+				"Set Syntax: TypeScript"
+			],
+			[
+				"Remov",
+				"Package Control: Remove Package"
+			],
+			[
+				"HTML",
+				"Set Syntax: HTML"
+			],
+			[
+				"XML",
+				"Set Syntax: XML"
+			],
+			[
+				"Ins",
+				"Package Control: Install Package"
+			],
+			[
+				"PH",
+				"Set Syntax: PHP"
+			],
+			[
+				"ren",
+				"Rename File"
+			],
+			[
+				"PHP",
+				"Set Syntax: PHP"
+			],
+			[
+				"TY",
+				"Set Syntax: TypeScript"
+			],
+			[
+				"JS",
+				"Set Syntax: JavaScript"
+			],
+			[
+				"Instal",
+				"Package Control: Install Package"
+			],
+			[
+				"Termi",
+				"Terminal View: Open Bash Terminal"
+			],
+			[
+				"PL",
+				"Package Control: List Packages"
+			],
+			[
+				"Pla",
+				"Set Syntax: Plain Text"
+			],
+			[
+				"Plai",
+				"Set Syntax: Plain Text"
+			],
+			[
+				"ALig",
+				"AlignTab"
+			],
+			[
+				"Install",
+				"Package Control: Install Package"
+			],
+			[
+				"Rename",
+				"Rename File"
+			],
+			[
+				"JavaS",
+				"Set Syntax: JavaScript"
+			],
+			[
+				"Renam",
+				"Rename File"
+			],
+			[
+				"Task",
+				"Tasks: New"
+			],
+			[
+				"View",
+				"File: New View into File"
+			]
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/root/ladder",
+		"/root/ladder/src"
+	],
+	"file_history":
+	[
+		"/root/ladder/package.json",
+		"/root/ladder/rollup.config.js",
+		"/root/ladder/index.js",
+		"/root/ladder/dist/index.js",
+		"/root/mvc/index.html",
+		"/root/mvc/counter.js",
+		"/root/mvc/index.js",
+		"/root/mvc/style.js",
+		"/root/mvc/patch.js",
+		"/root/mvc/mvc.js",
+		"/root/yavdom/yavdom.js",
+		"/root/mvc/hub.js",
+		"/root/mvc/html.js",
+		"/root/mvc/util.js",
+		"/root/html.js",
+		"/root/html2.js",
+		"/root/html.html",
+		"/root/yavdom/todo.js",
+		"/root/peg.js",
+		"/root/module.js",
+		"/home/guest/Downloads/peg/src/peg/GrammarEvaluation.java",
+		"/root/yavdom/fuck.html",
+		"/root/.config/sublime-text-3/Packages/tern_for_sublime/default_project_dir/.tern-project",
+		"/root/.config/sublime-text-3/Packages/tern_for_sublime/Tern.sublime-settings",
+		"/root/htmls/page/.tern-project",
+		"/root/yavdom/todo-demo.js",
+		"/root/test/node_modules/esbuild/lib/main.d.ts",
+		"/root/test/node_modules/esbuild/lib/main.js",
+		"/root/yavdom/out/todo-demo.js.map",
+		"/root/yavdom/out/todo-demo.js",
+		"/root/yavdom/todo-demo.css",
+		"/root/yavdom/index.html",
+		"/root/yavdom/todo-demo.html",
+		"/root/yavdom/router-demo.js",
+		"/root/yavdom/counter.js",
+		"/root/awesome.com/index.html",
+		"/root/awesome.com/hello.js",
+		"/root/yavdom/index.js",
+		"/root/yavdom/test.js",
+		"/root/yavdom/index.min.js",
+		"/root/foo.html",
+		"/root/app/render.js",
+		"/root/app/framework.js",
+		"/root/app/index.html",
+		"/root/app/rendering.js",
+		"/root/app/hash-url.js",
+		"/root/app/form-post-handler.js",
+		"/root/app/form-get-handler.js",
+		"/root/app/script-loader.js",
+		"/root/script-loader.js",
+		"/root/form-post-handler.js",
+		"/root/form-get-handler.js",
+		"/root/index.html",
+		"/root/update.js",
+		"/root/render.js",
+		"/root/hash-url.js",
+		"/root/svelte/public/build/bundle.js",
+		"/root/svelte/public/index.html",
+		"/home/guest/Downloads/svelte/public/index.html",
+		"/home/guest/Downloads/svelte/README.md",
+		"/root/patch.html",
+		"/root/patch.js",
+		"/root/refresh.html",
+		"/root/vdom/vdom.js",
+		"/root/vdom/vdom.html",
+		"/root/vdom/.tern-project",
+		"/root/html-v1.html",
+		"/root/mvc.html",
+		"/root/mvc2.html",
+		"/root/hash.js",
+		"/home/guest/Downloads/package/editor.html",
+		"/root/editor.php",
+		"/root/editor.html",
+		"/root/refresh.js",
+		"/root/vdom.js",
+		"/root/tag.html",
+		"/root/htmls/fa/fa.js",
+		"/root/fa.ts",
+		"/home/guest/Downloads/package/index.html",
+		"/home/guest/Downloads/package/index.js.map",
+		"/home/guest/Downloads/package/index.js",
+		"/root/loader/bar.js",
+		"/root/loader/foo.js",
+		"/root/loader/loader.html",
+		"/root/loader/loader.js",
+		"/root/loader/node_modules/foo/index.js",
+		"/root/loader/hahaha.json",
+		"/root/.config/sublime-text-3/Packages/JavaScript/JavaScript.sublime-syntax",
+		"/root/loader/.tern-project",
+		"/root/loader.js",
+		"/root/el.html",
+		"/root/htmls/page/page.js"
+	],
+	"find":
+	{
+		"height": 45.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": true,
+		"find_history":
+		[
+			"uglify",
+			"style",
+			"getStyle",
+			"style",
+			"onclick",
+			"events",
+			"next.childNodes.length",
+			"previousChildNodes.length",
+			"(events[type] || [])",
+			"events[type] = (events[type] || [])",
+			"l",
+			"node.parentNode.",
+			"booleans",
+			":",
+			"unshif",
+			"pattern",
+			"placeholder",
+			"  var placeholder = '{{}}'\n",
+			"/({{}})/",
+			"/{{}}/",
+			"'{{}}'",
+			"let",
+			"replace",
+			"hubs",
+			"modules",
+			"source",
+			"load",
+			"module",
+			"source",
+			"outputFiles",
+			"write",
+			"removeTodo",
+			"TodoItemFormView",
+			"Page",
+			"PageCView",
+			"PageBView",
+			"PageAView",
+			"Browser",
+			"browser",
+			"=>",
+			"e",
+			"p",
+			"const",
+			"previous",
+			"result",
+			"nextKey",
+			"key",
+			"form",
+			"label",
+			"form",
+			"input",
+			"children",
+			"args",
+			"button",
+			"C",
+			"V",
+			"M",
+			"CounterState",
+			"Counter",
+			"CounterState",
+			"counterState",
+			"counter",
+			"getFunctionId",
+			"nextValue",
+			"mounted",
+			"functionId",
+			"functionCount",
+			"functionIds",
+			"next",
+			"generate",
+			"transform",
+			"patch",
+			"next.",
+			" // ",
+			"compile",
+			"generate(",
+			"div",
+			"dataset",
+			"state",
+			"renderPage",
+			"var",
+			"hash",
+			"src",
+			"put",
+			"div",
+			"template",
+			"nodeValue",
+			"h",
+			"realizeNode",
+			"flattenChildren",
+			"createNode",
+			"getType",
+			"createVNode",
+			"traverse",
+			"inserted",
+			"https://unpkg.com/monaco-editor@0.21.2",
+			"3",
+			"2",
+			"1",
+			"var",
+			"generateId",
+			"ul",
+			"compile",
+			"generateId",
+			"JSON.stringify",
+			"realized",
+			"node",
+			"hashUrl",
+			"userReq",
+			"target",
+			"data",
+			"fh",
+			"transpilers",
+			"suffix",
+			"module",
+			"loaded",
+			"result",
+			"// ",
+			"target",
+			"state",
+			"target",
+			"var",
+			"Qux",
+			"th",
+			"Bar",
+			"span",
+			"24",
+			"b"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": true,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 34.0
+	},
+	"input":
+	{
+		"height": 51.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "ladder.sublime-project",
+	"replace":
+	{
+		"height": 64.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 392.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 592.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 270.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
