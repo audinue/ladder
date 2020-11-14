@@ -2,5 +2,11 @@
 JavaScript MVC framework.
 
 ```js
-import {} from 'https://cdn.jsdelivr.net/gh/audinue/ladder/index.min.js'
+import {
+  Hub,
+  style,
+  html,
+  mount,
+  update
+} from 'https://cdn.jsdelivr.net/gh/audinue/ladder@1.0/index.min.js'
 ```
